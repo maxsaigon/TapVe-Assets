@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "base_url": "https://[USERNAME].github.io/TapVe-Assets/",
+  "templates": [
+    {
+      "id": "pig_01",
+      "name": "Pig 01",
+      "file_path": "animals/pig_01.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "snail_02",
+      "name": "Snail 02",
+      "file_path": "animals/snail_02.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "duck_03",
+      "name": "Duck 03",
+      "file_path": "animals/duck_03.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "owl_04",
+      "name": "Owl 04",
+      "file_path": "animals/owl_04.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "car_01",
+      "name": "Car 01",
+      "file_path": "vehicles/car_01.png",
+      "category": "vehicles",
+      "version": 1
+    },
+    {
+      "id": "cat_05",
+      "name": "Cat 05",
+      "file_path": "animals/cat_05.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "walrus_06",
+      "name": "Walrus 06",
+      "file_path": "animals/walrus_06.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "image_01",
+      "name": "Image 01",
+      "file_path": "others/image_01.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_02",
+      "name": "Image 02",
+      "file_path": "others/image_02.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_03",
+      "name": "Image 03",
+      "file_path": "others/image_03.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_04",
+      "name": "Image 04",
+      "file_path": "others/image_04.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_05",
+      "name": "Image 05",
+      "file_path": "others/image_05.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_06",
+      "name": "Image 06",
+      "file_path": "others/image_06.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_07",
+      "name": "Image 07",
+      "file_path": "others/image_07.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "image_08",
+      "name": "Image 08",
+      "file_path": "others/image_08.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "dog_07",
+      "name": "Dog 07",
+      "file_path": "animals/dog_07.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "goldfish_08",
+      "name": "Goldfish 08",
+      "file_path": "animals/goldfish_08.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "whale_09",
+      "name": "Whale 09",
+      "file_path": "animals/whale_09.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "butterfly_10",
+      "name": "Butterfly 10",
+      "file_path": "animals/butterfly_10.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "sunflower_01",
+      "name": "Sunflower 01",
+      "file_path": "plants/sunflower_01.png",
+      "category": "plants",
+      "version": 1
+    },
+    {
+      "id": "butterfly_11",
+      "name": "Butterfly 11",
+      "file_path": "animals/butterfly_11.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "cat_12",
+      "name": "Cat 12",
+      "file_path": "animals/cat_12.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "cricket_13",
+      "name": "Cricket 13",
+      "file_path": "animals/cricket_13.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "dog_14",
+      "name": "Dog 14",
+      "file_path": "animals/dog_14.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "dolphin_15",
+      "name": "Dolphin 15",
+      "file_path": "animals/dolphin_15.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "duck_16",
+      "name": "Duck 16",
+      "file_path": "animals/duck_16.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "monkey_17",
+      "name": "Monkey 17",
+      "file_path": "animals/monkey_17.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "owl_18",
+      "name": "Owl 18",
+      "file_path": "animals/owl_18.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "sea-horse_19",
+      "name": "Sea-Horse 19",
+      "file_path": "animals/sea-horse_19.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "seal_20",
+      "name": "Seal 20",
+      "file_path": "animals/seal_20.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "unicorn_21",
+      "name": "Unicorn 21",
+      "file_path": "animals/unicorn_21.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "house_01",
+      "name": "House 01",
+      "file_path": "objects/house_01.png",
+      "category": "objects",
+      "version": 1
+    },
+    {
+      "id": "sheep_22",
+      "name": "Sheep 22",
+      "file_path": "animals/sheep_22.png",
+      "category": "animals",
+      "version": 1
+    },
+    {
+      "id": "image_09",
+      "name": "Image 09",
+      "file_path": "others/image_09.png",
+      "category": "others",
+      "version": 1
+    },
+    {
+      "id": "apple_tree_02",
+      "name": "Apple Tree 02",
+      "file_path": "plants/apple_tree_02.png",
+      "category": "plants",
+      "version": 1
+    },
+    {
+      "id": "boat_02",
+      "name": "Boat 02",
+      "file_path": "vehicles/boat_02.png",
+      "category": "vehicles",
+      "version": 1
+    }
+  ]
+}
